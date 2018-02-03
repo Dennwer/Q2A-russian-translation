@@ -1,6 +1,6 @@
 <?php
 /*
-	Question2Answer by Gideon Greenspan and contributors
+Question2Answer by Gideon Greenspan and contributors
 	http://www.question2answer.org/
 
 	Description: Language phrases for question page
