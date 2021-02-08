@@ -163,7 +163,7 @@ return array(
 	'results_for_x' => 'Результаты поиска для ^',
 	'retagged' => 'теги изменены',
 	'save_button' => 'Сохранить изменения',
-	'search_button' => 'Найти',
+	'search_button' => 'Поиск',
 	'search_explanation' => 'Пожалуйста, введите текст в поле поиска и попробуйте еще раз.',
 	'search_title' => 'Результаты поиска',
 	'selected' => 'выбран',
